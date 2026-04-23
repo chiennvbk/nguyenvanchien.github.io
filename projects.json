@@ -35,11 +35,11 @@
       "images/victory-metals-2.jpg"
     ]
   },
-  "masan": {
+  "tanphat": {
     "images": [
-      "images/masan-tungsten-1.jpg",
-      "images/masan-tungsten-2.jpg",
-      "images/masan-tungsten-3.jpg"
+      "images/tan-phat-1.jpg",
+      "images/tan-phat-2.jpg",
+      "images/tan-phat-3.jpg"
     ]
   },
   "intes": {
@@ -52,15 +52,15 @@
       "images/intes-feed-6.jpg",
       "images/intes-feed-7.jpg",
       "images/intes-feed-8.jpg",
-       "images/intes-feed-9.jpg",
-       "images/intes-feed-10.jpg"
+      "images/intes-feed-9.jpg",
+      "images/intes-feed-10.jpg"
     ]
   },
-  "tanphat": {
+  "masan": {
     "images": [
-      "images/tan-phat-1.jpg",
-      "images/tan-phat-2.jpg",
-      "images/tan-phat-3.jpg"
+      "images/masan-tungsten-1.jpg",
+      "images/masan-tungsten-2.jpg",
+      "images/masan-tungsten-3.jpg"
     ]
   }
 }
